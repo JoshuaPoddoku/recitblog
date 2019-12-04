@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'recitblog', // Required
+  title: 'Dev Blog', // Required
   author: 'Ryan Fitzgerald', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
